@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @SolidusLeaf
+/src/backend/database.py      @SolidusLeaf
+/src/backend/routers/auth.py  @SolidusLeaf
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @SolidusLeaf
